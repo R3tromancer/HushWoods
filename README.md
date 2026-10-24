@@ -3,6 +3,10 @@
 
 *A handcrafted 2D platformer set in a mysterious, glowing forest.*
 
+<img width="640" height="360" alt="HushWoods Screenshot" src="https://github.com/user-attachments/assets/a8ab90ba-cdfc-4322-ac2b-fb927602d544" />
+
+
+
 ## Overview
 
 Silent Woods is a solo-developed 2D platformer that immerses players in a mysterious forest filled with environmental puzzles and hostile flora.
